@@ -1,0 +1,64 @@
+* BENTLEY HORIZONTAL ALIGNMENT REVIEW 
+*  
+* Alignment name: Test Geometry 
+* Alignment description: Test Geometry  
+* Alignment style: Default 
+* Input Factor: 1.00000000 
+*  
+                                        STATION            NORTHING             EASTING 
+Element: Linear 
+            POB(          )             0+00.00         200143.4173        1035134.3271 
+             PC(          )             1+64.11         200146.4549        1034970.2490 
+      Tangential Direction:       N 88°56'22" W 
+         Tangential Length:              164.11 
+ 
+Element: Circular 
+             PC(          )             1+64.11         200146.4549        1034970.2490 
+             PI(          )             4+41.33         200151.5865        1034693.0719 
+             CC(          )                             201146.2836        1034988.7594 
+             PT(          )             7+04.97         200298.6982        1034458.1004 
+                    Radius:             1000.00 
+                     Delta:        30°59'21.71" Right 
+  Degree of Curvature(Arc):         5°43'46.48" 
+                    Length:              540.87 
+                   Tangent:              277.22 
+                     Chord:              534.30 
+           Middle Ordinate:               36.34 
+                  External:               37.72 
+         Tangent Direction:       N 88°56'22" W 
+          Radial Direction:        N 1°03'38" E 
+           Chord Direction:       N 73°26'41" W 
+          Radial Direction:       N 32°03'00" E 
+         Tangent Direction:       N 57°57'00" W 
+ 
+Element: Linear 
+             PT(          )             7+04.97         200298.6982        1034458.1004 
+             PC(          )             8+83.67         200393.5241        1034306.6415 
+      Tangential Direction:       N 57°57'00" W 
+         Tangential Length:              178.69 
+ 
+Element: Circular 
+             PC(          )             8+83.67         200393.5241        1034306.6415 
+             PI(          )            11+56.33         200538.2142        1034075.5378 
+             CC(          )                             199503.5594        1033749.4495 
+             PT(          )            14+17.21         200552.1809        1033803.2345 
+                    Radius:             1050.00 
+                     Delta:        29°06'49.68" Left 
+  Degree of Curvature(Arc):         5°27'24.27" 
+                    Length:              533.54 
+                   Tangent:              272.66 
+                     Chord:              527.82 
+           Middle Ordinate:               33.71 
+                  External:               34.82 
+         Tangent Direction:       N 57°57'00" W 
+          Radial Direction:       N 32°03'00" E 
+           Chord Direction:       N 72°30'25" W 
+          Radial Direction:        N 2°56'10" E 
+         Tangent Direction:       N 87°03'50" W 
+ 
+Element: Linear 
+             PT(          )            14+17.21         200552.1809        1033803.2345 
+            POE(          )            17+55.55         200569.5123        1033465.3331 
+      Tangential Direction:       N 87°03'50" W 
+         Tangential Length:              338.35 
+ 

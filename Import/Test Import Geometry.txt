@@ -1,0 +1,13 @@
+;
+;         File: C:\Users\CTluck\Desktop\Application Creator\EP_Corridor_1.txt
+;         Date: Wednesday, May 8, 2019 9:41:37 PM
+; Surface Name: EP_Corridor1
+; Surface Desc: 
+;   Point Type: Breakline
+;       Format: ID, Northing, Easting, Elevation
+;    Pen Order: One then Zeroes
+;
+      0+00.00          200143.4173      1035134.3271                    
+      4+41.33          200151.5865        1034693.0719              1000.00 
+      7+04.97          200298.6982        1034458.1004                    
+  

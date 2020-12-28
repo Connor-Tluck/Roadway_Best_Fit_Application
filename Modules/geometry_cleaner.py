@@ -18,6 +18,7 @@ import shapely as sh
 from scipy import optimize
 from math import sqrt
 import shapely as sh
+import json
 
 from Modules.centerline_feature_creator import lat_long_convert
 
@@ -272,7 +273,7 @@ class Processed_Geometry():
 
 class cleaned():
     """ Class function is meant to take the pre-processed machine learning categorized point data and
-        convert to a ncumber of list in order to generate clean geometry and alignments. Horizontal Only right now."""
+        convert to a number of list in order to generate clean geometry and alignments. Horizontal Only right now."""
 
     def __init__(self,
                  dataframe,
